@@ -1,7 +1,11 @@
-**GAME TITLE:** HangMeow
-**Developers:** Melbert P. Marafo, Herbert B. Acoking, Jerick Amiao, Jeric M. Colsido
+# HangMeow
+
+**Developers:** Melbert P. Marafo, Herbert B. Acoking, Jerick A. Amiao, Jeric M. Colsido
+
 **Platform:** Android (Mobile Platform)
+
 **Repository:** [https://github.com/codexcancerion/hangmeow](https://github.com/codexcancerion/hangmeow)
+
 **Download for Android:** [Click here](https://github.com/codexcancerion/hangmeow)
 
 ---
