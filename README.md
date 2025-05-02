@@ -6,7 +6,7 @@
 
 **Repository:** [https://github.com/codexcancerion/hangmeow](https://github.com/codexcancerion/hangmeow)
 
-**Download for Android:** [Click here](https://github.com/codexcancerion/hangmeow)
+**Download for Android:** [Click here]([https://github.com/codexcancerion/hangmeow](https://github.com/codexcancerion/hangmeow/releases/download/v1.0.0/hangmeow-v1.0.0.apk))
 
 ---
 
